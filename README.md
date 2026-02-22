@@ -1,4 +1,4 @@
-# funcaoparabuscarelementoBusca Sequencial Dinamica em C
+Busca Sequencial Dinamica em C
 
 Projeto modular para busca de elementos em conjuntos utilizando alocacao dinamica de memoria.
 

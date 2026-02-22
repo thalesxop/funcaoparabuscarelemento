@@ -2,11 +2,13 @@
 #define FUNCOES_H
 
 typedef struct {
-    int elementos[100];
+    int *elementos; 
     int quantidade;
 } TConjunto;
 
-void preencherConjunto(TConjunto * const conjA);
+
+void criarConjunto(TConjunto * const conjA);
 int buscaSequencial(TConjunto const * const conjA, int elemento);
+void liberarConjunto(TConjunto * const conjA);
 
 #endif
