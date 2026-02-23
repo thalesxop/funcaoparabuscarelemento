@@ -1,6 +1,6 @@
 Busca Sequencial Dinamica em C
 
-Projeto modular para busca de elementos em conjuntos utilizando alocacao dinamica de memoria.
+Projeto para busca de elementos em conjuntos utilizando alocacao dinamica de memoria.
 
 Organizacao de Arquivos
 funcoes.h: Definicao da estrutura TConjunto e prototipos.
